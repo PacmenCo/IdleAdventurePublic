@@ -1,5 +1,5 @@
-# IdleAdventurePublic
-How to delete your account : Idle Adventure
+# Idle Adventure  (https://play.google.com/store/apps/details?id=com.PacmenCo.IdleAdventure&hl=en)
+How to delete your account in Idle Adventure
 
 Use the following link:
 https://discord.gg/63AKMbH7
